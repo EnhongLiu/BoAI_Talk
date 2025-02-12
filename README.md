@@ -1,6 +1,6 @@
-# Bovi-Talk: Conversational AI for Dairy Science
+# BoAI-Talk: Conversational AI for Dairy Science
 
-🚀 **Bovi-Talk** is an interactive AI-powered system designed to help users interact with dairy science models using natural language. It leverages **large language models (LLMs)** and **graph-based workflows** to provide insights into **milk yield prediction, visualization, and decision support**.
+🚀 **BoAI-Talk** is an interactive AI-powered system designed to help users interact with dairy science models using natural language. It leverages **large language models (LLMs)** and **graph-based workflows** to provide insights into **milk yield prediction, visualization, and decision support**.
 
 ## 📌 Features
 
@@ -22,7 +22,7 @@
 
 ## 🔗 Workflow & Demo  
 
-The overall workflow of **Bovi-Talk** is illustrated below:  
+The overall workflow of **BoAI-Talk** is illustrated below:  
 
 <div style="text-align: center;">
   <img src="https://github.com/EnhongLiu/BoAI_Talk/blob/8786c3728844ccc4a8b9fa9ce13675ce10321704/z_pics/Overall%20Flow.png" width="700" height="auto" alt="Bovi-Talk Workflow">
