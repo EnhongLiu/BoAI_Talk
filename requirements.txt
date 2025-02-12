@@ -1,0 +1,17 @@
+databricks-langchain
+langchain
+langchain-core
+langgraph
+langchain-google-genai
+pydantic
+numpy
+pandas
+scipy
+pymc
+matplotlib
+ipython
+rich
+pprintpp
+typing-extensions
+databricks-sql-connector
+google-ai-generativelanguage
